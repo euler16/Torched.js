@@ -1,0 +1,25 @@
+{
+  "name": "torched.js",
+  "version": "1.0.0",
+  "description": "A Cute Numpy, PyTorch inspired yet anotherr JavaScript Deep Learning Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euler16/Torched.js.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Deep",
+    "Learning",
+    "Node.js"
+  ],
+  "author": "euler16",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/euler16/Torched.js/issues"
+  },
+  "homepage": "https://github.com/euler16/Torched.js#readme"
+}
